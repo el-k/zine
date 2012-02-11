@@ -9,6 +9,7 @@ $inc_path = 'public/';
     <!-- Testing -->
 	<head>
 		<link rel="stylesheet" type="text/css" href="<?php print $inc_path; ?>styles.css" media="screen"/>
+		<script type="text/javascript" src="<?php print $inc_path; ?>assets/vendor/spinjs/spin.js"></script>	
 	</head>
 	<body>
 		<div id="container">
