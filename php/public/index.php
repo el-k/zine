@@ -3,6 +3,7 @@ $include_path = get_include_path();
 set_include_path($include_path.PATH_SEPARATOR.dirname(__FILE__));
 if(!isset($inc_path))
 $inc_path = 'public/';
+file_put_contents('sample.txt', 123);
 ?>
 <!doctype html>
 <html>
@@ -17,6 +18,9 @@ $inc_path = 'public/';
 				<img src="<?php print $inc_path; ?>images/orchestra_logo_on_light.png">
 			</div>
 			<div id="content">
+				<?php
+					echo "file_contents: ".file_get_contents('sample.txt');
+				?>
 				<h2>Seriously, how easy was that?!</h2>
 				<p>This is just a simple bit of code, deployed from a <a href="https://github.com/orchestra-io/howto">repository on GitHub</a> and a <strong>master</strong> branch to show you how  you can be quickly up and running.</p>
 				<strong>include path:</strong><?php print get_include_path(); ?><br/>
