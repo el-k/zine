@@ -8,11 +8,7 @@ $inc_path = 'public/';
 <html>
     <!-- Testing -->
 	<head>
-		<link rel="stylesheet" type="text/css" href="
-		<?php 
-		print $inc_path; 
-		?>
-		styles.css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href="<?php print $inc_path; ?>styles.css" media="screen"/>
 	</head>
 	<body>
 		<div id="container">
