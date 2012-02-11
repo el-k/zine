@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html class="client-firefox client-firefox-9 client-gecko client-mac" dir="ltr" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>Editing Customers - Finebrain</title>
+<meta name="generator" content="MediaWiki 1.17.0">
+<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="http://192.168.1.254/wiki/index.php?title=Customers&amp;action=edit">
+<link rel="edit" title="Edit" href="http://192.168.1.254/wiki/index.php?title=Customers&amp;action=edit">
+<link rel="shortcut icon" href="http://192.168.1.254/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://192.168.1.254/wiki/opensearch_desc.php" title="Finebrain (en)">
+<link rel="EditURI" type="application/rsd+xml" href="http://192.168.1.254/wiki/api.php?action=rsd">
+<link rel="alternate" type="application/atom+xml" title="Finebrain Atom feed" href="http://192.168.1.254/wiki/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="index.php_files/load.css">
+<!--[if IE 8]><link rel="stylesheet" href="/wiki/skins/common/IE80Fixes.css?301" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="">
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/wiki/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Customers skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Editing Customers</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Finebrain</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div id="mw-anon-edit-warning">
+<p><b>Warning:</b> You are not logged in.
+</p>
+Your IP address will be recorded in this page's edit history.</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><div id="toolbar">
+
+<img style="cursor: pointer;" title="Bold text" alt="Bold text" src="index.php_files/button_bold.png" id="mw-editbutton-bold" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Italic text" alt="Italic text" src="index.php_files/button_italic.png" id="mw-editbutton-italic" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Internal link" alt="Internal link" src="index.php_files/button_link.png" id="mw-editbutton-link" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="External link (remember http:// prefix)" alt="External link (remember http:// prefix)" src="index.php_files/button_extlink.png" id="mw-editbutton-extlink" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Level 2 headline" alt="Level 2 headline" src="index.php_files/button_headline.png" id="mw-editbutton-headline" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Embedded file" alt="Embedded file" src="index.php_files/button_image.png" id="mw-editbutton-image" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="File link" alt="File link" src="index.php_files/button_media.png" id="mw-editbutton-media" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Ignore wiki formatting" alt="Ignore wiki formatting" src="index.php_files/button_nowiki.png" id="mw-editbutton-nowiki" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Your signature with timestamp" alt="Your signature with timestamp" src="index.php_files/button_sig.png" id="mw-editbutton-signature" class="mw-toolbar-editbutton" border="0" height="22" width="23"><img style="cursor: pointer;" title="Horizontal line (use sparingly)" alt="Horizontal line (use sparingly)" src="index.php_files/button_hr.png" id="mw-editbutton-hr" class="mw-toolbar-editbutton" border="0" height="22" width="23"></div>
+<form id="editform" name="editform" method="post" action="/wiki/index.php?title=Customers&amp;action=submit" enctype="multipart/form-data"><input value="" name="wpSection" type="hidden">
+<input value="20111221095406" name="wpStarttime" type="hidden">
+<input value="20111221095341" name="wpEdittime" type="hidden">
+<input value="" name="wpScrolltop" id="wpScrolltop" type="hidden">
+<input value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" type="hidden"><input value="0" name="oldid" type="hidden"><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" name="wpTextbox1">==ITI==
+
+'''test'''
+
+172.31.24.29     iti-vtest01.iti.local
+
+user: ITI\910-finebrain01
+
+pw: pwfb4iti
+
+
+'''production'''
+
+172.31.24.27     iti-vfb01.iti.local
+
+172.31.24.26     iti-vom01.iti.local
+
+user: ITI\910-finebrain01
+
+pw: pwfb4iti
+
+
+==PWC==
+
+user: bne
+
+pw: 09011989
+
+secureclient: 09011975 
+
+hardware-pw: 09011988 (switch direction vice/versa + 1 &gt; previous one was: 78911090)
+
+
+==BBRAUN==
+
+172.30.15.14	bbmag4y.bbmag.bbraun.com 
+
+'''expertfinder'''
+
+user: runkmade
+
+pw: mr123
+
+'''secure-client'''
+user: badean01
+
+pw: 0901
+
+token: &lt;get-that-stick-and-read-from-it&gt;
+
+
+==ROCHE==
+
+frontend: http://www.infoonco.es
+
+backend: http://www.infoonco.es/wp-admin
+
+user: rupert
+
+pw: murdoch
+
+
+==KLEOS==
+
+frontend: http://kleos.ask-find.com
+
+backend: http://kleos.ask-find.com
+
+user: rupert
+
+pw: murdoch
+
+
+==ORTHOFIND==
+
+frontend: http://ortho.ask-find.com
+
+backend: http://ortho.ask-find.com/wp-admin
+
+user: rupert
+
+pw: murdoch
+
+==ADVONAUT==
+
+'''hosting'''
+host: http://www.hostpoint.ch/
+user:
+pass
+
+'''ftp'''
+
+==ARCHINAUT==
+
+
+</textarea><div id="editpage-copywarn">
+<p>Please note that all contributions to Finebrain may be edited, altered, or removed by other contributors.
+If you do not want your writing to be edited mercilessly, then do not submit it here.<br>
+You are also promising us that you wrote this yourself, or copied it from a public domain or similar free resource (see <a href="http://192.168.1.254/wiki/index.php?title=Finebrain:Copyrights&amp;action=edit&amp;redlink=1" class="new" title="Finebrain:Copyrights (page does not exist)">Finebrain:Copyrights</a> for details).
+<b>Do not submit copyrighted work without permission!</b>
+</p>
+</div>
+<div class="editOptions">
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary">Summary:</label></span> <input class="mw-summary" id="wpSummary" maxlength="250" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [ctrl-b]" accesskey="b" name="wpSummary"><div class="editCheckboxes">
+</div>
+<div class="editButtons">
+<input id="wpSave" name="wpSave" tabindex="3" value="Save page" accesskey="s" title="Save your changes [ctrl-s]" type="submit">
+<input id="wpPreview" name="wpPreview" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes, please use this before saving! [ctrl-p]" type="submit">
+
+<input id="wpDiff" name="wpDiff" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [ctrl-v]" type="submit">
+	<span class="editHelp"><a href="http://192.168.1.254/wiki/index.php/Customers" title="Customers" id="mw-editform-cancel">Cancel</a> | <a target="helpwindow" href="http://192.168.1.254/wiki/index.php/Help:Editing">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input value="+\" name="wpEditToken" type="hidden">
+<div class="mw-editTools"></div>
+<div class="templatesUsed">
+
+</div>
+<div class="hiddencats">
+
+</div></form>
+<div class="printfooter">
+Retrieved from "<a href="http://192.168.1.254/wiki/index.php/Customers">http://192.168.1.254/wiki/index.php/Customers</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id="catlinks" class="catlinks catlinks-allhidden"></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li id="pt-anonuserpage"><a href="http://192.168.1.254/wiki/index.php/User:192.168.1.42" title="The user page for the IP address you are editing as [ctrl-.]" accesskey="." class="new">192.168.1.42</a></li>
+					<li id="pt-anontalk"><a href="http://192.168.1.254/wiki/index.php/User_talk:192.168.1.42" title="Discussion about edits from this IP address [ctrl-n]" accesskey="n" class="new">Talk for this IP address</a></li>
+					<li id="pt-anonlogin"><a href="http://192.168.1.254/wiki/index.php?title=Special:UserLogin&amp;returnto=Customers&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [ctrl-o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><span><a href="http://192.168.1.254/wiki/index.php/Customers" title="View the content page [ctrl-c]" accesskey="c">Page</a></span></li>
+					<li id="ca-talk" class="new"><span><a href="http://192.168.1.254/wiki/index.php?title=Talk:Customers&amp;action=edit&amp;redlink=1" title="Discussion about the content page [ctrl-t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view"><span><a href="http://192.168.1.254/wiki/index.php/Customers">Read</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="http://192.168.1.254/wiki/index.php?title=Customers&amp;action=edit" title="You can edit this page. Please use the preview button before saving">Edit</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="http://192.168.1.254/wiki/index.php?title=Customers&amp;action=history" title="Past revisions of this page [ctrl-h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/wiki/index.php" id="searchform">
+		<input name="title" value="Special:Search" type="hidden">
+				<input id="searchInput" name="search" title="Search Finebrain [ctrl-f]" accesskey="f" type="text">
+		<input name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists" type="submit">
+		<input name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" type="submit">
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(&quot;/wiki/skins/common/images/finebrain-logo.gif&quot;);" href="http://192.168.1.254/wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id="p-navigation">
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="http://192.168.1.254/wiki/index.php/Main_Page" title="Visit the main page [ctrl-z]" accesskey="z">Main page</a></li>
+					<li id="n-portal"><a href="http://192.168.1.254/wiki/index.php/Finebrain:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-currentevents"><a href="http://192.168.1.254/wiki/index.php/Finebrain:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-recentchanges"><a href="http://192.168.1.254/wiki/index.php/Special:RecentChanges" title="The list of recent changes in the wiki [ctrl-r]" accesskey="r">Recent changes</a></li>
+					<li id="n-randompage"><a href="http://192.168.1.254/wiki/index.php/Special:Random" title="Load a random page [ctrl-x]" accesskey="x">Random page</a></li>
+					<li id="n-help"><a href="http://192.168.1.254/wiki/index.php/Help:Contents" title="The place to find out">Help</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="http://192.168.1.254/wiki/index.php/Special:WhatLinksHere/Customers" title="List of all wiki pages that link here [ctrl-j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="http://192.168.1.254/wiki/index.php/Special:RecentChangesLinked/Customers" title="Recent changes in pages linked from this page [ctrl-k]" accesskey="k">Related changes</a></li>
+																																										<li id="t-specialpages"><a href="http://192.168.1.254/wiki/index.php/Special:SpecialPages" title="List of all special pages [ctrl-q]" accesskey="q">Special pages</a></li>
+													</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+																		<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://192.168.1.254/wiki/index.php/Finebrain:Privacy_policy" title="Finebrain:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="http://192.168.1.254/wiki/index.php/Finebrain:About" title="Finebrain:About">About Finebrain</a></li>
+																							<li id="footer-places-disclaimer"><a href="http://192.168.1.254/wiki/index.php/Finebrain:General_disclaimer" title="Finebrain:General disclaimer">Disclaimers</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="index.php_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" height="31" width="88"></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="index.php_files/load_002.js"></script><script src="index.php_files/load.js"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Customers", "wgTitle": "Customers", "wgAction": "edit", "wgArticleId": 12, "wgIsArticle": false, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 85, "wgCategories": [], "wgBreakFrames": true, "wgRestrictionEdit": [], "wgRestrictionMove": []});
+}
+</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.legacy.edit", "mediawiki.action.edit", "mediawiki.util", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax"]);
+	mediaWiki.loader.go();
+}
+</script><script type="text/javascript" src="index.php_files/load_003.js"></script>
+
+<script>if ( window.mediaWiki ) { addButton("/wiki/skins/common/images/button_bold.png","Bold text","\'\'\'","\'\'\'","Bold text","mw-editbutton-bold");
+addButton("/wiki/skins/common/images/button_italic.png","Italic text","\'\'","\'\'","Italic text","mw-editbutton-italic");
+addButton("/wiki/skins/common/images/button_link.png","Internal link","[[","]]","Link title","mw-editbutton-link");
+addButton("/wiki/skins/common/images/button_extlink.png","External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");
+addButton("/wiki/skins/common/images/button_headline.png","Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");
+addButton("/wiki/skins/common/images/button_image.png","Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");
+addButton("/wiki/skins/common/images/button_media.png","File link","[[Media:","]]","Example.ogg","mw-editbutton-media");
+addButton("/wiki/skins/common/images/button_nowiki.png","Ignore wiki formatting","\x3cnowiki\x3e","\x3c/nowiki\x3e","Insert non-formatted text here","mw-editbutton-nowiki");
+addButton("/wiki/skins/common/images/button_sig.png","Your signature with timestamp","--~~~~","","","mw-editbutton-signature");
+addButton("/wiki/skins/common/images/button_hr.png","Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");
+ }</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mediaWiki.loader.state({"user.options":"ready"});
+}
+</script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served in 0.144 secs. -->			
+
+</body></html>
