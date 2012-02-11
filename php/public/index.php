@@ -18,6 +18,7 @@ $inc_path = 'public/';
 			<div id="content">
 				<h2>Seriously, how easy was that?!</h2>
 				<p>This is just a simple bit of code, deployed from a <a href="https://github.com/orchestra-io/howto">repository on GitHub</a> and a <strong>master</strong> branch to show you how  you can be quickly up and running.</p>
+				<strong>include path:</strong><?php print get_include_path(); ?><br/>
                 <?php
                   require_once("upload.php");
                 ?>
