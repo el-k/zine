@@ -1,8 +1,9 @@
 <?php 
 $include_path = get_include_path();
 set_include_path($include_path.PATH_SEPARATOR.dirname(__FILE__));
+global $inc_path;
 if(!isset($inc_path))
-$inc_path = '<?php print $inc_path; ?>';
+$inc_path = 'public/';
 ?>
 <!doctype html>
 <html>
