@@ -1,17 +1,19 @@
 <?php 
-//$include_path = get_include_path();
-//set_include_path($include_path.PATH_SEPARATOR.dirname(__FILE__));
+$include_path = get_include_path();
+set_include_path($include_path.PATH_SEPARATOR.dirname(__FILE__));
+if(!isset($inc_path))
+$inc_path = '<?php print $inc_path; ?>';
 ?>
 <!doctype html>
 <html>
     <!-- Testing -->
 	<head>
-		<link rel="stylesheet" type="text/css" href="public/styles.css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href="<?php print $inc_path; ?>styles.css" media="screen"/>
 	</head>
 	<body>
 		<div id="container">
 			<div id="logo">
-				<img src="public/images/orchestra_logo_on_light.png">
+				<img src="<?php print $inc_path; ?>images/orchestra_logo_on_light.png">
 			</div>
 			<div id="content">
 				<h2>Seriously, how easy was that?!</h2>
